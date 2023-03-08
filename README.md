@@ -24,3 +24,16 @@ Mass | Kilograms to Pounds | 1 Kg = 2.20462 Pounds
 Mass | Pounds to Kilograms | 1 Pound = 0.453592 Kgs
 Mass | Ounce to Grams | 1 Ounce = 28.3495 Grams
 Mass | Grams to Ounce | 1 Gram = 0.035274 Ounces
+
+
+# specifications:
+
+1) Develop a tabbar application where each conversion type (for example Length,
+Liquid etc) is on its own tab
+2) When a tab is selected, your app must show all available conversion options for
+that type (for example, in case of Length tab, conversion options are Kilometers to
+Miles, Miles to Kilometers etc) in a table view, and must use navigation interface
+to transition from table view to actual conversion view.
+3) The conversion view should provide a text field where the user can type the value
+of required conversion and a button to perform the conversion and show the
+output in a label. 
