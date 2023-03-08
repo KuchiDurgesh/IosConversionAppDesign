@@ -7,7 +7,7 @@ TO design an Ios application that allows its users to perform following conversi
 Type |Conversions | Formula
 --- | --- | --- 
 Length | Kilometers to Miles | 1 Km = 0.621371 miles 
-| Miles to Kilometers | 1 Mile = 1.60934 Kilometers
+ Miles to Kilometers | 1 Mile = 1.60934 Kilometers
 | Yard to Feet | 1 Yard = 3 Feet
 | Feet to Yard | 1 Feet = 0.33333 Yards
 | Inches to Centimeters | 1 Inch = 2.54 Centimeters
